@@ -5,7 +5,7 @@
 	font-family: sans-serif;
 }
 body {
-  background-image: url('imgs/fondo.jpg');
+  /*background-image: url('imgs/PORT_00.jpg');*/
   margin: 0;
   min-height: 100vh;
   background-repeat: no-repeat;
@@ -90,7 +90,7 @@ body {
   width: 100%;
   background-color: #73a6f8;
 
-  background-image: url('imgs/anuncio-princ.jpg');
+  background-image: url('imgs/PORT_00.jpg');
   margin: 0;
   min-height: 100vh;
   background-repeat: no-repeat;
